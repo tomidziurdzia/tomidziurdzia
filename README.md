@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomas Dziurdzia</h1>
 <h3 align="center">I'm a Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on [Calendar App](https://github.com/tomidziurdzia/Calendar-MERN)
+- 🔭 I’m currently working on [Drivers Manager] Frontend:(https://github.com/tomidziurdzia/driversManager_Frontend) and Backend:(https://github.com/tomidziurdzia/driversManager_Backend)
 
 - 🌱 I’m currently learning **MERN Stack**
 
